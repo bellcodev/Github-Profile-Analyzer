@@ -17,7 +17,6 @@ Built for developers, educators, and recruiters who want more than just numbers 
 - 🔗 Compare two profiles (optional module)
 
 ---
-git remote add origin https://github.com/bellcodev/Github-Profile-Analyzer.git
 ## 🚀 How to Use / Cómo usar
 
 1. Clone this repo
