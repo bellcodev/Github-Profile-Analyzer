@@ -1,5 +1,10 @@
 # 🔍 GitHub Profile Analyzer
 
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-blue)
+![Issues](https://img.shields.io/github/issues/bellcodev/Github-Profile-Analyzer)
+![Stars](https://img.shields.io/github/stars/bellcodev/Github-Profile-Analyzer?style=social)
+
 **A complete, interactive, and visual tool to explore any GitHub user's public profile in depth.**
 Built for developers, educators, and recruiters who want more than just numbers — this tool turns GitHub data into insight.
 
