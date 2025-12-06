@@ -31,5 +31,3 @@ El objetivo es ofrecer una herramienta *ligera y práctica*, ideal para quienes 
 ## 👤 Autor
 *Ronald (bellcodev)*  
 - GitHub: [@bellcodev](https://github.com/bellcodev)  
-- LinkedIn: [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)  
-- Email: tuemail@example.com
